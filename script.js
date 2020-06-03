@@ -1,3 +1,4 @@
+
 // var css = document.querySelector("h3"); //selecting h3 which will display the code for the colors
 // var color1 = document.querySelector(".color1"); //".color1" since you are selecting class="color1"
 // var color2 = document.querySelector(".color2"); //samedt
@@ -45,6 +46,8 @@
 
 
 // //ORRRRRR
+var _=require('lodash');
+console.log(_);
 
 var css = document.querySelector("h3"); //selecting h3 which will display the code for the colors
 var color1 = document.querySelector(".color1"); //".color1" since you are selecting class="color1"
